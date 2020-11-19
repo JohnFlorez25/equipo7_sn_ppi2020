@@ -7,7 +7,7 @@ class Section2 extends React.Component {
       <br/>
         <center>
           {" "}
-          <button
+          <button 
             type="button"
             class="boton1"
             data-toggle="button">

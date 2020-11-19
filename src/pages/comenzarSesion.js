@@ -6,7 +6,7 @@ class comenzarSesion extends React.Component {
   render() {
     return (
       <div className="container-fluid">
-    <center> <h1> <strong>  Inicio De Sesion</strong></h1> </center>
+    <center> <h1> <strong>  Inicio De Sesion:</strong></h1> </center>
         <br />
         <br/>
       <form>

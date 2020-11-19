@@ -1,7 +1,26 @@
-.btn1 {
-  background-color:;
-  width: 150px;
-  height: 35px;
-  }
+.btnw  {
+  padding: .375rem .75rem;
+  border: 1px solid #031121;
+  border-radius: .25rem;
+  color: #007bff;
+  transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+.btn-borde:hover, .btn-borde:active, .btn-borde:focus {
+  color: #fff;
+  background-color: #007bff;
+}
 .text {
   width: 90%;
+}
+body {
+  background: url("https://static.vecteezy.com/system/resources/previews/000/133/727/non_2x/vector-wood-planks-background.jpg");
+}
+
+footer {
+  margin-top: 50px;
+
+  background-color: #ffcb84;
+
+}

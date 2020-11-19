@@ -5,13 +5,13 @@ import "../css/styles.css";
 class Menu extends React.Component {
   render() {
     return (
-        <div className="container-fluid" Style3>
+        <div className="container-fluid" >
         <center> <h1> <strong> Comienza Tu Aprendizaje:</strong></h1> </center>
 
           <br/>
           <br/>
           <br/>
-        <center><button type="button" class="btn1 btn-primary btn-lg btn-block">Teoria </button>
+        <center><button type="button" class="btn1 btn-primary btn-lg btn-block"><a href="Temas">Teoria</a></button>
         <br/>
           <br/>
           <br/>
@@ -24,7 +24,7 @@ class Menu extends React.Component {
       <br/>
       <br/>
   
-      
+    
      
     <div>
      
